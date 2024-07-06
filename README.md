@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh Jha</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsh30jha3006&label=Profile%20views&color=0e75b6&style=flat" alt="harsh30jha3006" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harshjha3006" alt="Harsh30jha3006" /></a> </p>
 
-- 🌱 I’m currently learning **Web3,Hardhat**
+- 🌱 I love learning new technologies
 
 - 📫 How to reach me **harsh30jha@gmail.com**
 
